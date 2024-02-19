@@ -1,0 +1,1 @@
+taskkill /f /im GayriATAK_PullUp.exe
