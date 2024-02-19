@@ -12,10 +12,10 @@ int main(){
         //Enter dead loop for drive insertion
         while (1){
             WIN32_FIND_DATA findFileData;  
-            HANDLE hFind_D = FindFirstFile("D:\\antiATAK_Data", &findFileData); //Check D:\ drive
-            HANDLE hFind_E = FindFirstFile("E:\\antiATAK_Data", &findFileData); //Check E:\ drive
-            HANDLE hFind_F = FindFirstFile("F:\\antiATAK_Data", &findFileData); //Check F:\ drive
-            HANDLE hFind_G = FindFirstFile("G:\\antiATAK_Data", &findFileData); //Check G:\ drive
+            HANDLE hFind_D = FindFirstFile("D:\\gayriATAK_Data", &findFileData); //Check D:\ drive
+            HANDLE hFind_E = FindFirstFile("E:\\gayriATAK_Data", &findFileData); //Check E:\ drive
+            HANDLE hFind_F = FindFirstFile("F:\\gayriATAK_Data", &findFileData); //Check F:\ drive
+            HANDLE hFind_G = FindFirstFile("G:\\gayriATAK_Data", &findFileData); //Check G:\ drive
             
             if (hFind_D != INVALID_HANDLE_VALUE || hFind_E != INVALID_HANDLE_VALUE ||  
                 hFind_F != INVALID_HANDLE_VALUE || hFind_G != INVALID_HANDLE_VALUE){
@@ -49,10 +49,10 @@ int main(){
         //Enter dead loop to detect disconnection
         while (1){
             WIN32_FIND_DATA findFileData;
-            HANDLE hFind_D = FindFirstFile("D:\\antiATAK_Data", &findFileData); //Same things
-            HANDLE hFind_E = FindFirstFile("E:\\antiATAK_Data", &findFileData);
-            HANDLE hFind_F = FindFirstFile("F:\\antiATAK_Data", &findFileData);
-            HANDLE hFind_G = FindFirstFile("G:\\antiATAK_Data", &findFileData);   
+            HANDLE hFind_D = FindFirstFile("D:\\gayriATAK_Data", &findFileData); //Same things
+            HANDLE hFind_E = FindFirstFile("E:\\gayriATAK_Data", &findFileData);
+            HANDLE hFind_F = FindFirstFile("F:\\gayriATAK_Data", &findFileData);
+            HANDLE hFind_G = FindFirstFile("G:\\gayriATAK_Data", &findFileData);   
 
             if (hFind_D == INVALID_HANDLE_VALUE && hFind_E == INVALID_HANDLE_VALUE && 
                 hFind_F == INVALID_HANDLE_VALUE && hFind_G == INVALID_HANDLE_VALUE){
