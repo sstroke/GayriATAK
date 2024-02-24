@@ -11,7 +11,8 @@ Standart GayriATAK öğretmen flashı gibi çalışır. Flash takıldığında t
 Şuan bulunduğunuz github sayfasındaki yeşil renkli "Code" butonuna basın ve Download ZIP seçneğini seçin ve repoyu indirin. Ardından indirdiğiniz zip disyasını ayıklayın. Ayıkladığınız klasöre girin. İki farklı klasör karşınıza çıkıyor. İstediğiniz sürüme ait klasöre girin. Build içinde GayriATAK[^1] dosyası var. Bu dosya ve bununla beraber bir gerideki _"Setup.bat"_ ve _"Start.bat"_[^2] dosyalarını bir flashın içine atın. Unutmayın bu flash taytayı açmanızı sağlayan flash olacak. 
 > [!WARNING]
 > Dosyaları flashın içinde ayrı bir klasöre koymayın ve hepsinin aynı yerde olduğundan emin olun. Örnek:
-> ![Örnek](https://github.com/sstroke/GayriATAK/blob/main/image.png)
+>
+>  ![Örnek](https://github.com/sstroke/GayriATAK/blob/main/image.png)
 
 Şimdi tek yapmanız gereken akıllı tahtaya fiziksel erişim sağlamak. Bunun için bir öğretmenin flashını unutmasını bekleyebilirsiniz. 
 
