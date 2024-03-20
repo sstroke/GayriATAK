@@ -28,8 +28,6 @@ Revolt Chat : sstroke_
 <a href="https://www.youtube.com/channel/UCtiQijOmQlKlMS6Vx_yUIAg" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sstroke_" height="30" width="40" /></a>
 <a href="https://discord.gg/6EDVzwqxtH" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sstroke_" height="30" width="40" /></a>
 
-Videolu anlatım için [buraya](https://www.youtube.com/watch?v=EMi8T4xKf-E&t=10s) tıkla. (Eski sürüm. Anlaşılması zor olabilir.)
-
 [^1]: Diğer sürümü seçtiyseniz GayriATAK_PullUp olmalı.
 [^2]: Sadece seçtiğiniz sürüm klasörünün içindeki dosyaları kullanın her iki sürümde de aynı dosyalar var ama işlerveri farklı.
 [^3]: Öğretmenin flashını iptal etmiyoruz _"gayriATAK_Data"_ dosyası olmasa bile tahtayı açabilecekler :D
